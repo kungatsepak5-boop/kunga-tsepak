@@ -1,4 +1,4 @@
-num=int(input("Enter a number:"))
+num=int(input("Enter a number: "))
 fac=1
 if num <0:
     print ("invalid Input")
